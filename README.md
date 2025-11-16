@@ -47,6 +47,13 @@ These fields allow calculation of revenue, product insights, and order trends.
 
 ### **1. Sales Overview Dashboard**
 
+📌 Dashboard Preview
+
+Below is the snapshot of the sales overview Dashboard:
+
+![Dashboard Overview](powerbi/sales_overview_image.png)
+
+
 Includes:
 - Total Revenue  
 - Average Order Value  
@@ -56,6 +63,12 @@ Includes:
 
 ### **2. Product Performance Dashboard**
 
+📌 Dashboard Preview
+
+Below is the snapshot of the Product Performance Dashboard:
+
+![Dashboard Overview](powerbi/Product_performance.png)
+
 Includes:
 - Revenue by Product  
 - Monthly Revenue Pattern  
@@ -64,13 +77,9 @@ Includes:
 
 ---
 
-## 📌 Dashboard Preview
-
-> *(Add screenshots in your repo folder and reference them like below)*  
-
 ## 🔍 Key Insights
 
-- Total Revenue exceeded **₹61M**  
+- Total Revenue exceeded **$11M**  
 - Delivered orders contribute **~87%** of all revenue  
 - **Water Bottle – 30 oz** is the top-performing product  
 - Highest sales months: **May** and **November**  
@@ -112,7 +121,6 @@ Includes:
 
 **Daksha Mishal**  
 📧 dakshamishal52@gmail.com
-
-🔗 LinkedIn • GitHub  
+• GitHub  Mishal30-11 
 
 ---
